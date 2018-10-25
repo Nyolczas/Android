@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloNyolci</string>
+    <string name="btnPress">Nyomd meg ezt a gombot!</string>
+    <string name="txtMain">Hello Nyolci!</string>
+</resources>
